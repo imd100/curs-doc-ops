@@ -6,6 +6,32 @@
 Welcome to Curs Doc as Code's documentation!
 ============================================
 
+
+
+Prima mea pagina titlu
+============================
+
+Prima mea pagina subtitlu
+--------------------------------
+
+:Hobiurile mele sunt:
+  #. fotbal 
+  #. tenis
+
+:Masinile preferate:
+  * Audi
+  * BMW
+
+:Carti preferate:
+  - carte 1
+  - carte 2
+
+.. code-block:: bash
+   :linenos:
+
+   cd home
+   cp ab cd
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
